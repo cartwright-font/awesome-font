@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Awesome Serif';
+  src: url('https://raw.githubusercontent.com/cartwright-font/awesome-font/main/awesome-serif.ttf') format('truetype');
+  font-weight: 100 900;
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-display: swap;
+}
